@@ -1,4 +1,4 @@
-# C# Programlama
+# C# Programming
 
 My C# learning journey.
 
