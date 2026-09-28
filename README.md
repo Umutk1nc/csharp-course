@@ -17,3 +17,4 @@ This repository contains my notes, exercises, and projects while learning the C#
 ## Progress
 
 - [x] Lesson 1 - Variables and Nullable Types
+- [x] Lesson 2 - Strings and DateTime
