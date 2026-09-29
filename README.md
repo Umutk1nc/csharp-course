@@ -18,3 +18,4 @@ This repository contains my notes, exercises, and projects while learning the C#
 
 - [x] Lesson 1 - Variables and Nullable Types
 - [x] Lesson 2 - Strings and DateTime
+- [x] Lesson 3 - Arrays
