@@ -21,3 +21,4 @@ This repository contains my notes, exercises, and projects while learning the C#
 - [x] Lesson 3 - Arrays
 - [x] Lesson 4 - Operators and Random
 - [x] Lesson 5 - Conditional Statements and Switch Case
+- [x] Lesson 6 - Loops
