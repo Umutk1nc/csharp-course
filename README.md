@@ -23,3 +23,4 @@ This repository contains my notes, exercises, and projects while learning the C#
 - [x] Lesson 5 - Conditional Statements and Switch Case
 - [x] Lesson 6 - Loops
 - [x] Lesson 7 - File and Folder Management
+- [x] Lesson 8 - Object Oriented Programming Basics
