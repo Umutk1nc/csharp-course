@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ConsoleApp;
+namespace Lesson08;
 class Program
 {
     static void Main(string[] args)
