@@ -25,3 +25,4 @@ This repository contains my notes, exercises, and projects while learning the C#
 - [x] Lesson 7 - File and Folder Management
 - [x] Lesson 8 - Object Oriented Programming Basics
 - [x] Lesson 9 - Collections
+- [x] Lesson 10 - Exception Handling
