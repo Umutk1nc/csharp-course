@@ -26,3 +26,7 @@ This repository contains my notes, exercises, and projects while learning the C#
 - [x] Lesson 8 - Object Oriented Programming Basics
 - [x] Lesson 9 - Collections
 - [x] Lesson 10 - Exception Handling
+
+## Topics Covered
+
+Variables & Nullable Types, Strings, DateTime, Arrays, Operators, Random, Conditionals, Switch Case, Loops, File & Folder Management, OOP (Classes, Constructors, Static Members), Collections (ArrayList, List, Dictionary), Exception Handling
